@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sven</h1>
 <h3 align="center">An experienced and passionate software engineer from germany</h3>
 
-- 🔭 I’m currently working on **to many things**
+- 🔭 I’m currently working on **too many things**
 
 - 💬 Ask me about **Software quality, Kotlin, Java, Go, React, Dart, Flutter**
 
