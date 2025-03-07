@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **too many things**
 
-- 💬 Ask me about **Software quality, Kotlin, Java, Go, React, Dart, Flutter**
+- 💬 Ask me about **Software quality, Kotlin, Java, Go, Dart, Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
